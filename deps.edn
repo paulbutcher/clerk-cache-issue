@@ -1,2 +1,2 @@
-{:deps {io.github.nextjournal/clerk {:git/sha "cb6d63e98d36bdb70d50607a99cac7fc608573df"}
+{:deps {io.github.nextjournal/clerk {:git/sha "ba194851dd21559351b5af29f168aeaa80c436ff"}
         org.clojure/data.csv {:mvn/version "1.0.0"}}}
